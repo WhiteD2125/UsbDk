@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsbDk", "UsbDk\UsbDk.vcxproj", "{2008215F-40FE-4383-9C98-C46BF8D8C87C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsbDk_Package", "UsbDk Package\UsbDk Package.vcxproj", "{DA9CA0D6-B38B-4C26-B6B4-C999C09CB6BD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsbDk Package", "UsbDk Package\UsbDk Package.vcxproj", "{DA9CA0D6-B38B-4C26-B6B4-C999C09CB6BD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{2008215F-40FE-4383-9C98-C46BF8D8C87C} = {2008215F-40FE-4383-9C98-C46BF8D8C87C}
 	EndProjectSection
