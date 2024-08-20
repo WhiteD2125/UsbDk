@@ -978,7 +978,8 @@
     <KMDF_VERSION_MINOR>11</KMDF_VERSION_MINOR>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Win10 Debug_NoSign|Win32'" Label="Configuration">
-    <TargetVersion />
+  <TargetVersion>
+  </TargetVersion>
     <UseDebugLibraries>true</UseDebugLibraries>
     <CharacterSet>Unicode</CharacterSet>
     <KMDF_VERSION_MAJOR>1</KMDF_VERSION_MAJOR>
